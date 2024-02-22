@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/02/15 23:49:37.000.767,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 23:52:49.000.794,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/15 23:54:04.000.043,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/02/16 00:16:43.000.051,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/02/16 01:53:23.000.945,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit000.pas=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/16 01:53:23.000.945,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit000.dfm=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/02/16 01:53:37.000.612,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit001.pas=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2024/02/16 01:53:37.000.612,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit001.dfm=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2024/02/16 01:53:47.000.524,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit900.dfm=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/02/16 01:53:47.000.524,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit900.pas=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/02/16 01:54:00.000.383,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\EmployeeApp.dproj=C:\Users\comp\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/02/16 14:41:29.000.732,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.pas</Transaction>
+    <Transaction>2024/02/17 02:05:16.000.302,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.dfm=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit002.dfm</Transaction>
+    <Transaction>2024/02/17 02:05:16.000.302,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.pas=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit002.pas</Transaction>
+    <Transaction>2024/02/20 01:08:49.000.582,=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.pas</Transaction>
+    <Transaction>2024/02/20 01:47:25.000.709,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.pas=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit003.pas</Transaction>
+    <Transaction>2024/02/20 01:47:25.000.709,C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit1.dfm=C:\Users\comp\Documents\Embarcadero\Studio\Projects\EmployeeApp\Source\Unit003.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
