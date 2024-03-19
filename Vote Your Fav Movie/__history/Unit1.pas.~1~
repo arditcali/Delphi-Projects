@@ -1,0 +1,69 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.ExtCtrls, Vcl.StdCtrls, Vcl.Buttons,
+  Vcl.Imaging.jpeg;
+
+type
+  TForm1 = class(TForm)
+    imJoker: TImage;
+    imBatman: TImage;
+    imAvatar: TImage;
+    Label1: TLabel;
+    pnlJoker: TPanel;
+    pnlBatman: TPanel;
+    pnlAvatar: TPanel;
+    bitRetry: TBitBtn;
+    bitClose: TBitBtn;
+    procedure imJokerClick(Sender: TObject);
+    procedure imBatmanClick(Sender: TObject);
+    procedure imAvatarClick(Sender: TObject);
+    procedure bitRetryClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.bitRetryClick(Sender: TObject);
+begin
+  pnlJoker.Caption := '0';
+  pnlBatman.Caption := '0';
+  pnlAvatar.Caption := '0';
+end;
+
+procedure TForm1.imAvatarClick(Sender: TObject);
+var
+  vote: Integer;
+begin
+  inc(vote);
+  pnlAvatar.Caption := IntToStr(vote);
+end;
+
+procedure TForm1.imBatmanClick(Sender: TObject);
+var
+  vote: Integer;
+begin
+  inc(vote);
+  pnlBatman.Caption := IntToStr(vote);
+end;
+
+procedure TForm1.imJokerClick(Sender: TObject);
+var
+  vote: Integer;
+begin
+  inc(vote);
+  pnlJoker.Caption := IntToStr(vote);
+end;
+
+end.
