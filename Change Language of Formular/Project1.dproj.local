@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/04 01:29:50.000.397,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 09:59:17.000.197,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/12 12:54:25.233,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/12 14:22:33.434,C:\Users\user\Documents\Embarcadero\Studio\Projects\DELPHI\8hcourse\Change Language of Formular\Unit1.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/12/12 14:22:33.434,C:\Users\user\Documents\Embarcadero\Studio\Projects\DELPHI\8hcourse\Change Language of Formular\Unit1.dfm=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/12/12 14:22:35.090,C:\Users\user\Documents\Embarcadero\Studio\Projects\DELPHI\8hcourse\Change Language of Formular\Project1.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
